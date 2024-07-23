@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KennyRevived
-- 👀 I’m interested in web development, CSS, JS, React, Node.js etc
-- 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @KennyRevived (Pavel Novikov)
+- 👀 I’m interested in web development, Python and JS, CSS, React, Node.js, 
+- 🌱 I’m currently practicing Python and JS
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
 <!---
